@@ -1,0 +1,33 @@
+body{
+	font-family: Arial;
+}
+
+h1{
+	text-align: center;
+	text-transform: uppercase;
+	color: #001f3f;
+}
+span{
+	color: #0074D9;
+
+}
+section{
+	max-width: 600px;
+	text-align: justify;
+	margin: 20px auto;
+}
+.litany{
+	text-align: center;
+	color: #85144b;
+}
+.lit{
+	font-size: 2.0em;
+	color: black;
+}
+pre{
+	font-size: 15px;
+	font-weight: 400;
+}
+strong{
+	font-weight: 800;
+}

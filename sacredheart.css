@@ -1,0 +1,28 @@
+body{
+	font-family: Helvetica,Arial;
+	letter-spacing: 1px;
+	word-spacing: 2px;
+	background-color: lightblue;
+	
+
+}
+html{
+	height: 100%;
+}
+div{
+	max-width: 600px;
+	margin: 20px auto;
+	text-align: justify;
+	color: black;
+	border: 
+	
+
+}
+h4{
+	text-align: center;
+	text-transform: uppercase;
+	color: #b10dc9;
+}
+span{
+	font-size: 2.0em;
+}

@@ -1,0 +1,30 @@
+body{
+	font-family: Arial;
+}
+div{
+	max-width: 600px;
+	text-align: justify;
+	margin: 20px auto;
+
+}
+h4{
+	text-transform: uppercase;
+	color: #0074d9;
+}
+ul li{
+	font-style: italic;
+	color: #f012be;
+	word-spacing: 1px;
+	line-height: 25px;
+
+}
+ol li{
+	font-style: italic;
+	word-spacing: 1px;
+	line-height: 25px;
+
+}
+span{
+	font-style: italic;
+	color: #85144b;
+}
